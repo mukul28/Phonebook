@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: demo1
+Build-Jdk: 1.7.0_55
+Class-Path: mysql-connector-java-5.1.9.jar hibernate-core-3.3.2.GA.jar
+  antlr-2.7.6.jar dom4j-1.6.1.jar xml-apis-1.0.b2.jar slf4j-api-1.5.8.
+ jar commons-logging-1.1.1.jar commons-collections-3.2.1.jar cglib-2.2
+ .jar asm-3.1.jar javassist-3.9.0.GA.jar jta-1.1.jar log4j-1.2.12.jar 
+ slf4j-log4j12-1.5.8.jar
+Main-Class: com.embark.phonebook.application.ClassOperation
+Created-By: Maven Integration for Eclipse
+
